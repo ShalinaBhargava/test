@@ -1,5 +1,4 @@
 void main()
 {
-clrscr();
-getch();
+cout<<"Hi";
 }
