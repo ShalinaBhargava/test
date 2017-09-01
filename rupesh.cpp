@@ -1,0 +1,5 @@
+void main()
+{
+clrscr();
+getch();
+}
