@@ -5,4 +5,5 @@ cout<<"Hi";
 cout<<"Where do you live?";
   cout<<"How are you?";
 cin>>var;
+cout<<"Chating app";
 }
